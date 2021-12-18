@@ -52,3 +52,7 @@ A Laravel dashboard front-end scaffolding preset for [Tailwind CSS](https://tail
 ![Stacked Dashboard](/screenshots/preset_stacked.png)
 
 ![Sidebar Dashboard](/screenshots/preset_sidebar.png)
+
+### This version No need to install fresh Laravel
+
+This version is Laravel 8 + Tailwindcss 3 + alpinejs 3.7 + sidebar settings
