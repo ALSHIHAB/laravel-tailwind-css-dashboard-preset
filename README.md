@@ -1,4 +1,5 @@
 # :fire: Laravel tailwind css dashboard preset
+
 [![Total Downloads](https://poser.pugx.org/miaababikir/laravel-tailwind-dashboard-preset/downloads)](//packagist.org/packages/miaababikir/laravel-tailwind-dashboard-preset) [![Daily Downloads](https://poser.pugx.org/miaababikir/laravel-tailwind-dashboard-preset/d/daily)](//packagist.org/packages/miaababikir/laravel-tailwind-dashboard-preset) [![License](https://poser.pugx.org/miaababikir/laravel-tailwind-dashboard-preset/license)](//packagist.org/packages/miaababikir/laravel-tailwind-dashboard-preset)
 
 A Laravel dashboard front-end scaffolding preset for [Tailwind CSS](https://tailwindcss.com) - Support RTL out of the box.
@@ -23,19 +24,24 @@ A Laravel dashboard front-end scaffolding preset for [Tailwind CSS](https://tail
 ### For Alpine preset with stacked layout
 
 1. Use `php artisan ui tailwind-dashboard --option=alpine.stacked`
-2. `npm install && npm run dev`
-3. `php artisan serve` (or equivalent) to run server and test preset.
+2. Use `npm install laravel-mix@latest --save-dev`
+3. Run `npm ci`
+4. `npm install && npm run dev`
+5. `php artisan serve` (or equivalent) to run server and test preset.
 
 ### For Alpine preset with sidebar layout
 
 1. Use `php artisan ui tailwind-dashboard --option=alpine.sidebar`
-2. `npm install && npm run dev`
-3. `php artisan serve` (or equivalent) to run server and test preset.
+2. Use `npm install laravel-mix@latest --save-dev`
+3. Run `npm ci`
+4. `npm install && npm run dev`
+5. `php artisan serve` (or equivalent) to run server and test preset.
 
 ### Todo
-- [ ] Password reset
-- [ ] Verify email
-- [ ] Welcome
+
+-   [ ] Password reset
+-   [ ] Verify email
+-   [ ] Welcome
 
 ### Screenshots
 
